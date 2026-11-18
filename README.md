@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction 
 
 ## Project Overview
 This project uses machine learning to predict whether a passenger survived the Titanic disaster based on passenger characteristics. It is a binary classification problem implemented using **Logistic Regression**.
