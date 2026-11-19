@@ -12,7 +12,8 @@ The project focuses on understanding the complete machine learning workflow, inc
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Machine Learning
+- Logistic Regression
 
 ## Results
 The model's performance was evaluated on the test dataset using classification metrics and graphical visualizations.
